@@ -1,0 +1,18 @@
+author: ByLien
+main: me.ByLien.WNBanka.Main
+name: WNBanka
+version: 1.0
+
+depend:
+  - Vault
+  - WNEsle
+
+commands:
+  banka:
+    description: Bankayı açma komutu.
+  bankabak:
+    description: Admin komutu bankadaki hesaba bakma.
+  bankaekle:
+    description: Admin komutu bankadaki hesaba para ekleme - konursa çıkartma.
+  wnbankareload:
+    description: Reload komutu.

@@ -1,0 +1,20 @@
+gui:
+  name: "&fWinter&3Novus &0Banka"
+
+  paracek_name: "&aPara Çek"
+  paracek_lore:
+    - "&7Banka hesabından para çekmek"
+    - "&7için tıkla."
+    - " "
+
+  hesap_name: "&aBanka Hesabın"
+  hesap_lore:
+    - "&7Banka hesabındaki bakiye:"
+    - "&a%bakiye% TL"
+    - " "
+
+  parayatir_name: "§6Para Yatır"
+  parayatir_lore:
+    - "&7Banka hesabına para yatırmak"
+    - "&7için tıkla."
+    - " "
